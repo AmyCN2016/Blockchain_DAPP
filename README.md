@@ -5,7 +5,7 @@
 Build additional functionality with your smart contract and deploy it on the public testnet to create a DApp.
 
 ## contract address
-[0x89d78a0e7d1708fdd35148bf8866da9dbd6dc7c4]
+0xC6DF2f74Bec1E32811f0c268F0814dDd2Efb7630
 
 (https://rinkeby.etherscan.io/address/0x89d78a0e7d1708fdd35148bf8866da9dbd6dc7c4)
 
